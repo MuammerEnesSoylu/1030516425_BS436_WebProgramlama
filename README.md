@@ -1,1 +1,3 @@
-# 1030516425_BS436_WebProgramlama
+# Öğrenci Numarası: 1030516425
+# Öğrenci Adı: Muammer Soylu  
+# Ders Adı: BS436 Web Programlama
