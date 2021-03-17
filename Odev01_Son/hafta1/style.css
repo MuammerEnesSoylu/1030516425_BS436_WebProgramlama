@@ -1,0 +1,26 @@
+html, body{
+    margin: 0px;
+    background-color:white;
+    color: blueviolet;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.foto{
+    margin: 20px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.mesaj{
+    background-color: aquamarine;
+    color: black;
+}
+
+.link{
+    color: red;
+    cursor: pointer;
+    text-decoration: underline;
+}
